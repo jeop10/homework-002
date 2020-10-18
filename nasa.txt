@@ -1,0 +1,150 @@
+Creation
+Main article: Creation of NASA
+File:NASA 60th- How It All Began.webmPlay media
+A short documentary about the beginnings of NASA
+
+From 1946, the National Advisory Committee for Aeronautics (NACA) had been experimenting with
+rocket planes such as the supersonic Bell X-1. In the early 1950s, there was challenge to
+launch an artificial satellite for the International Geophysical Year (1957–58). An effort for
+this was the American Project Vanguard. After the Soviet space program's launch of the world's
+first artificial satellite (Sputnik 1) on October 4, 1957, the attention of the United States
+turned toward its own fledgling space efforts. The U.S. Congress, alarmed by the perceived
+threat to national security and technological leadership (known as the "Sputnik crisis"), urged
+immediate and swift action; President Dwight D. Eisenhower and his advisers counseled more
+deliberate measures. On January 12, 1958, NACA organized a "Special Committee on Space
+Technology", headed by Guyford Stever. On January 14, 1958, NACA Director Hugh Dryden
+published "A National Research Program for Space Technology" stating:
+
+It is of great urgency and importance to our country both from consideration of our prestige as
+a nation as well as military necessity that this challenge [Sputnik] be met by an energetic
+program of research and development for the conquest of space ... It is accordingly proposed
+that the scientific research be the responsibility of a national civilian agency ... NACA is
+capable, by rapid extension and expansion of its effort, of providing leadership in space
+technology.
+
+While this new federal agency would conduct all non-military space activity, the Advanced
+Research Projects Agency (ARPA) was created in February 1958 to develop space technology for
+military application.
+
+On July 29, 1958, Eisenhower signed the National Aeronautics and Space Act, establishing NASA.
+When it began operations on October 1, 1958, NASA absorbed the 43-year-old NACA intact; its
+8,000 employees, an annual budget of US$100 million, three major research laboratories (Langley
+Aeronautical Laboratory, Ames Aeronautical Laboratory, and Lewis Flight Propulsion Laboratory)
+and two small test facilities. Elements of the Army Ballistic Missile Agency and the United
+States Naval Research Laboratory were incorporated into NASA. A significant contributor to
+NASA's entry into the Space Race with the Soviet Union was the technology from the German rocket
+program led by Wernher von Braun, who was now working for the Army Ballistic Missile Agency
+(ABMA), which in turn incorporated the technology of American scientist Robert Goddard's earlier
+works. Earlier research efforts within the US Air Force and many of ARPA's early space
+programs were also transferred to NASA. In December 1958, NASA gained control of the Jet
+Propulsion Laboratory, a contractor facility operated by the California Institute of Technology.
+
+
+
+X-15 program (1954–1968)
+Main article: North American X-15
+X-15 in powered flight
+
+NASA inherited NACA's X-15 experimental rocket-powered hypersonic research aircraft, developed in conjunction with the US Air Force and Navy. Three planes were built starting in 1955. The X-15 was drop-launched from the wing of one of two NASA Boeing B-52 Stratofortresses, NB52A tail number 52-003, and NB52B, tail number 52-008 (known as the Balls 8). Release took place at an altitude of about 45,000 feet (14 km) and a speed of about 500 miles per hour (805 km/h).[citation needed]
+
+Twelve pilots were selected for the program from the Air Force, Navy, and NACA. A total of 199
+flights were made between June 1959 and December 1968, resulting in the official world record
+for the highest speed ever reached by a crewed powered aircraft (current as of 2014), and a
+maximum speed of Mach 6.72, 4,519 miles per hour (7,273 km/h). The altitude record for X-15
+was 354,200 feet (107.96 km). Eight of the pilots were awarded Air Force astronaut wings for
+flying above 260,000 feet (80 km), and two flights by Joseph A. Walker exceeded 100 kilometers
+(330,000 ft), qualifying as spaceflight according to the International Aeronautical Federation.
+The X-15 program employed mechanical techniques used in the later crewed spaceflight programs,
+including reaction control system jets for controlling the orientation of a spacecraft, space
+suits, and horizon definition for navigation. The reentry and landing data collected were
+valuable to NASA for designing the Space Shuttle.
+
+Project Mercury (1958–1963)
+Main article: Project Mercury
+L. Gordon Cooper, photographed by a slow-scan television camera aboard Faith 7, 1963
+
+In 1958, NASA formed an engineering group, the Space Task Group, to manage their human
+spaceflight programs under the direction of Robert Gilruth. Their earliest programs were
+conducted under the pressure of the Cold War competition between the U.S. and the Soviet Union.
+NASA inherited the US Air Force's Man in Space Soonest program, which considered many crewed
+spacecraft designs ranging from rocket planes like the X-15, to small ballistic space capsules
+ By 1958, the space plane concepts were eliminated in favor of the ballistic capsule,
+and NASA renamed it Project Mercury. The first seven astronauts were selected among candidates
+from the Navy, Air Force and Marine test pilot programs. On May 5, 1961, astronaut Alan Shepard
+became the first American in space aboard a capsule he named Freedom 7, launched on a Redstone
+booster on a 15-minute ballistic (suborbital) flight. John Glenn became the first American
+to be launched into orbit, on an Atlas launch vehicle on February 20, 1962, aboard Friendship 7
+ Glenn completed three orbits, after which three more orbital flights were made,culminating
+in L. Gordon Cooper's 22-orbit flight Faith 7, May 15–16, 1963. Katherine Johnson, Mary
+Jackson, and Dorothy Vaughan were three of the human computers doing calculations on
+trajectories during the Space Race. Johnson was well known for doing trajectory
+calculations for John Glenn's mission in 1962, where she was running the same equations by hand
+that were being run on the computer.
+
+Mercury's competition from the Soviet Union (USSR) was the single-pilot Vostok spacecraft. They
+sent the first man in space, cosmonaut Yuri Gagarin, into a single Earth orbit aboard Vostok 1
+in April 1961, one month before Shepard's flight. In August 1962, they achieved an almost
+four-day record flight with Andriyan Nikolayev aboard Vostok 3, and also conducted a concurrent
+Vostok 4 mission carrying Pavel Popovich.
+
+Project Gemini (1961–1966)
+Main article: Project Gemini
+Richard Gordon performs a spacewalk to attach a tether to the Agena Target Vehicle on Gemini 11, 1966
+
+Based on studies to grow the Mercury spacecraft capabilities to long-duration flights,
+developing space rendezvous techniques, and precision Earth landing, Project Gemini was started
+as a two-man program in 1961 to overcome the Soviets' lead and to support the Apollo crewed
+lunar landing program, adding extravehicular activity (EVA) and rendezvous and docking to its
+objectives. The first crewed Gemini flight, Gemini 3, was flown by Gus Grissom and John Young
+on March 23, 1965. Nine missions followed in 1965 and 1966, demonstrating an endurance
+mission of nearly fourteen days, rendezvous, docking, and practical EVA, and gathering medical
+data on the effects of weightlessness on humans.
+
+Under the direction of Soviet Premier Nikita Khrushchev, the USSR competed with Gemini by
+converting their Vostok spacecraft into a two- or three-man Voskhod. They succeeded in
+launching two crewed flights before Gemini's first flight, achieving a three-cosmonaut flight
+in 1964 and the first EVA in 1965. After this, the program was canceled, and Gemini caught up
+while spacecraft designer Sergei Korolev developed the Soyuz spacecraft, their answer to Apollo.
+
+Apollo program (1960–1972)
+Main article: Apollo program
+Buzz Aldrin on the Moon, 1969
+
+The U.S public's perception of the Soviet lead in the Space Race (by putting the first man into
+space) motivated President John F. Kennedy to ask the Congress on May 25, 1961, to commit
+the federal government to a program to land a man on the Moon by the end of the 1960s, which
+effectively launched the Apollo program.
+
+Apollo was one of the most expensive American scientific programs ever. It cost more than $20
+billion in 1960s dollars or an estimated $223 billion in present-day US dollars. (In
+comparison, the Manhattan Project cost roughly $28.4 billion, accounting for inflation.)[38
+ It used the Saturn rockets as launch vehicles, which were far bigger than the rockets
+built for previous projects. The spacecraft was also bigger; it had two main parts, the
+combined command and service module (CSM) and the Apollo Lunar Module (LM). The LM was to be
+left on the Moon and only the command module (CM) containing the three astronauts would return
+to Earth.
+
+The second crewed mission, Apollo 8, brought astronauts for the first time in a flight around
+the Moon in December 1968. Shortly before, the Soviets had sent an uncrewed spacecraft
+around the Moon. On the next two missions docking maneuvers that were needed for the Moon
+landing were practiced and then finally the Moon landing was made on the Apollo 11
+mission in July 1969.
+
+The first person to walk on the Moon was Neil Armstrong, who was followed 19 minutes later by
+Buzz Aldrin, while Michael Collins orbited above. Five subsequent Apollo missions also landed
+astronauts on the Moon, the last in December 1972. Throughout these six Apollo spaceflights,
+twelve men walked on the Moon. These missions returned a wealth of scientific data and 381.7
+kilograms (842 lb) of lunar samples. Topics covered by experiments performed included soil
+mechanics, meteoroids, seismology, heat flow, lunar ranging, magnetic fields, and solar wind
+ The Moon landing marked the end of the space race; and as a gesture,
+Armstrong mentioned mankind when he stepped down on the Moon.
+
+Apollo set major milestones in human spaceflight. It stands alone in sending crewed missions
+beyond low Earth orbit, and landing humans on another celestial body. Apollo 8 was the
+first crewed spacecraft to orbit another celestial body, while Apollo 17 marked the last
+moonwalk and the last crewed mission beyond low Earth orbit. The program spurred advances in
+many areas of technology peripheral to rocketry and crewed spaceflight, including avionics,
+telecommunications, and computers. Apollo sparked interest in many fields of engineering and
+left many physical facilities and machines developed for the program as landmarks. Many objects
+and artifacts from the program are on display at various locations throughout the world,
+notably at the Smithsonian's Air and Space Museums. 
