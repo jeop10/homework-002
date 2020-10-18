@@ -7,34 +7,6 @@ void endApp(char *message)
     printf("Exit program");
 }
 
-int readFileOld(char *filename, char *pattern)
-{
-#define CHUNK 1024 /* read 1024 bytes at a time */
-    char buf[CHUNK];
-    FILE *file;
-    size_t nread;
-
-    file = fopen(filename, "r");
-    if (file)
-    {
-        while ((nread = fread(buf, 1, sizeof buf, file)) > 0)
-            fwrite(buf, 1, nread, stdout);
-        if (ferror(file))
-        {
-            endApp("There was an error reading the file, please try with another file");
-            return 1;
-        }
-        fclose(file);
-    }
-    else
-    {
-        endApp("The file does not exists on the folder");
-        return 1;
-    }
-
-    return 0;
-}
-
 int readFile(char *filename, char *needle)
 {
     FILE *file;
